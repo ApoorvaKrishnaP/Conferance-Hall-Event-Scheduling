@@ -26,13 +26,13 @@ The **Conference Hall Event Scheduler** is a Streamlit-based web application des
 
 2. **Clone the Repository:**
     ```bash
-    git clone https://github.com/ApoorvaKrishnaP/Conferance-Hall-Event-Scheduling.git
-    cd Conferance-Hall-Event-Scheduling
+    git clone https://github.com/ApoorvaKrishnaP/Conference-Hall-Event-Scheduling.git
+    cd Conference-Hall-Event-Scheduling
     ```
 
 3. **Run the Application:**
     ```bash
-    streamlit run Conferance_Hall_Event_Scheduler.py
+    streamlit run Conference_Hall_Event_Scheduler.py
     ```
 
 4. **(Optional) Add Custom Styles:**
